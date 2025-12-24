@@ -1,0 +1,6 @@
+#Helidon Project Configuration
+#Wed Dec 24 18:40:10 CET 2025
+schema.version=1.1.0
+helidon.version=4.3.3
+project.flavor=se
+project.archetype=quickstart
